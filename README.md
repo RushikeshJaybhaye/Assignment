@@ -6,5 +6,5 @@ This project contains solutions to various statistics and probability questions 
 
 This part of the project deals with statistical summaries, outlier detection, distribution analysis, and probability-based decision-making using real-world inspired datasets.
 
-# 📘 Assignment: Normal Distribution & Functions of Random Variables
+# Assignment2.2📘 Normal Distribution & Functions of Random Variables
 This project contains Python-based solutions to a set of questions involving normal distribution, functions of random variables, and statistical inference. The scenarios include real-world-inspired cases such as customer service timing, employee age distributions, profit forecasting, and more.
